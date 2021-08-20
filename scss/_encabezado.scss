@@ -1,0 +1,77 @@
+
+/*logo*/
+.logo__imagen--tamanio{
+	width: 80px;
+}
+
+
+/*menu principal*/
+
+.menu1__li--borde{
+	border-bottom: 1px solid blue;
+}
+
+/*redes*/
+
+.nav_2{
+	display:flex;
+	
+}
+
+.nav__menuSecundario--position{
+	
+	justify-content:center;
+	aling-items:center;
+
+}
+
+.menuSecundario__redes--listType{
+	list-style-type: none;
+    padding: 30%;
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 991px){
+
+	/*logo*/
+	.logo__imagen--position{
+		display:flex;
+		justify-content:center;
+		aling-items:center;
+	}
+
+	/*menuPrincipal*/
+
+	.menu1{
+
+	justify-content:center;
+	}
+
+	/*redes*/
+
+	.menu2__ul--padding{
+	padding-inline-start: 0px;
+	width:56px;
+
+		li{
+		padding:8px;
+		}
+	}
+
+
+}
+
+@media only screen and (min-width: 992px){
+
+	/*logo*/
+	.logo__imagen--position{
+	justify-content:flex-end;
+	}
+	
+
+}
+
+
+
+
+
