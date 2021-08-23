@@ -14,5 +14,13 @@
     "nodemon": "^2.0.12"
   },
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andresen5000/Entrega4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andresen5000/Entrega4/issues"
+  },
+  "homepage": "https://github.com/Andresen5000/Entrega4#readme",
   "description": ""
 }

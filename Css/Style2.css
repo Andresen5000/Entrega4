@@ -7238,6 +7238,7 @@ a.text-dark:hover, a.text-dark:focus {
 .footer--background {
   background-color: #BFF8CE; }
 
+/*google maps*/
 .footer3 iframe {
   width: 100%;
   height: 100%; }
@@ -7259,3 +7260,6 @@ a.text-dark:hover, a.text-dark:focus {
   width: 70%;
   height: 600px;
   padding-bottom: 40px; }
+
+.formulario__comentario--tamanio {
+  width: 100%; }
